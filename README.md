@@ -1,5 +1,5 @@
 #### .NET
-##Basics of .Net
+##Basics of SQL
 - [ ] VinitShahi
 - [ ] AND CONDITION    : SELECT * FROM Customers WHERE Country='Germany' AND City='Berlin';
 
