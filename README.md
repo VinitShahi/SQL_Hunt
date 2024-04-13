@@ -10,7 +10,7 @@ DCL – Data Control Language</br>
 TCL – Transaction Control Language</br>
 
 <b>Referential integrity:-</b></br>
-Referential integrity refers to the consistency that must be maintained between primary and foreign keys, i.e. every foreign key value must have a corresponding primary key value.
+Referential integrity refers to the consistency that must be maintained between primary and foreign keys, i.e. every foreign key value must have a corresponding primary key value.</br>
 </br>
 <b>Trigger:-</b></br>
 Trigger allows us to execute a batch of SQL code when a table event occurs (Insert, update or delete command executed against a specific table)
