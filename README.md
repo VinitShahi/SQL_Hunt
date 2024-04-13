@@ -4,6 +4,7 @@
 </br>
 <b>SQL Commands</b></br>
 <b>There are 5 types of SQL commands mainly categorized as:-</b></br>
+</br>
 <b>DDL – Data Definition Language</b></br>
 CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).</br>
 DROP: This command is used to delete objects from the database.</br>
@@ -21,6 +22,7 @@ DELETE: It is used to delete records from a database table.</br>
 <b>DCL – Data Control Language</b></br>
 GRANT: This command gives users access privileges to the database.</br>
 REVOKE: This command withdraws the user’s access privileges given by using the GRANT command.</br>
+</br>
 <b>TCL – Transaction Control Language</b></br>
 BEGIN: Opens a Transaction.</br>
 ROLLBACK: Rollbacks a transaction in case of any error occurs.</br>
