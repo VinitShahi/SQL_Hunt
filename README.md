@@ -3,14 +3,23 @@
 Structured Query Language is a database tool which is used to create and access database to support software application.
 
 <b>Aggregate Function:-</b>
+</br>
 SQL Aggregate Functions calculates values from multiple columns in a table and returns a single value.
+</br>
 There are 7 aggregate functions we use in SQL
+</br>
 AVG(): Returns the average value from specified columns
+</br>
 COUNT(): Returns number of table rows
+</br>
 MAX(): Returns largest value among the records
+</br>
 MIN(): Returns smallest value among the records
+</br>
 SUM(): Returns the sum of specified column values
+</br>
 FIRST(): Returns the first value
+</br>
 LAST(): Returns Last value
 
 - [ ] AND CONDITION         : SELECT * FROM SQL_Demo WHERE Country='India' AND City='Jamshedpur';
