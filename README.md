@@ -1,12 +1,18 @@
 #### Structured Query Language (SQL)
 ##Basics of SQL
-Structured Query Language is a database tool which is used to create and access database to support software application.
+<b>Structured Query Language is a database tool which is used to create and access database to support software application.</b>
+
+<b>Referential integrity:-</b></br>
+Referential integrity refers to the consistency that must be maintained between primary and foreign keys, i.e. every foreign key value must have a corresponding primary key value.
+</br>
+<b>Trigger:-</b></br>
+Trigger allows us to execute a batch of SQL code when a table event occurs (Insert, update or delete command executed against a specific table)
 
 <b>Aggregate Function:-</b>
 </br>
 SQL Aggregate Functions calculates values from multiple columns in a table and returns a single value.
 </br>
-There are 7 aggregate functions we use in SQL
+<b>There are 7 aggregate functions we use in SQL</b>
 </br>
 AVG(): Returns the average value from specified columns
 </br>
