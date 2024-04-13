@@ -8,15 +8,14 @@ CREATE: This command is used to create the database or its objects (like table, 
 DROP: This command is used to delete objects from the database.</br>
 ALTER: This is used to alter the structure of the database.</br>
 TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed.</br>
-COMMENT: This is used to add comments to the data dictionary.</br>
-RENAME: This is used to rename an object existing in the database.</br>
+
 <b>DQL – Data Query Language</b></br>
 SELECT: It is used to retrieve data from the database.</br>
-DML – Data Manipulation Language</br></br>
+<b>DML – Data Manipulation Language</b></br>
 INSERT: It is used to insert data into a table.</br>
 UPDATE: It is used to update existing data within a table.</br>
 DELETE: It is used to delete records from a database table.</br>
-LOCK: Table control concurrency.</br>
+
 <b>DCL – Data Control Language</b></br>
 GRANT: This command gives users access privileges to the database.</br>
 REVOKE: This command withdraws the user’s access privileges given by using the GRANT command.</br>
