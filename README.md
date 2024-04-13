@@ -1,6 +1,13 @@
 #### Structured Query Language (SQL)
 ##Basics of SQL
-<b>Structured Query Language is a database tool which is used to create and access database to support software application.</b>
+<b>Structured Query Language is a database tool which is used to create and access database to support software application.</b></br>
+<b>SQL Commands</b></br>
+<b>There are 5 types of SQL commands mainly categorized as:-</b></br>
+DDL – Data Definition Language</br>
+DQL – Data Query Language</br>
+DML – Data Manipulation Language</br>
+DCL – Data Control Language</br>
+TCL – Transaction Control Language</br>
 
 <b>Referential integrity:-</b></br>
 Referential integrity refers to the consistency that must be maintained between primary and foreign keys, i.e. every foreign key value must have a corresponding primary key value.
