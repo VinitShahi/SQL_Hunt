@@ -1,5 +1,5 @@
 #### Structured Query Language (SQL)
-##Basics of SQL</br>
+<b>##Basics of SQL</b></br>
 <b>Structured Query Language(SQL) is a database tool which is used to create and access database to support software application.</b></br>
 </br>
 <b>SQL Commands</b></br>
