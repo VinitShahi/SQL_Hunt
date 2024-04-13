@@ -1,6 +1,5 @@
-#### .NET
+#### Structured Query Language (SQL)
 ##Basics of SQL
-- [ ] VinitShahi
 - [ ] AND CONDITION    : SELECT * FROM Customers WHERE Country='Germany' AND City='Berlin';
 
 - [ ] OR CONDITION          :   SELECT * FROM Customers WHERE City='Berlin' OR City='München'; 
