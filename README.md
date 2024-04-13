@@ -7,7 +7,7 @@
 
 - [ ] NOT CONDITION         :   SELECT * FROM Customers WHERE NOT Country='Germany';
 
-- [ ] AND & OR CONDITION    :  SELECT * FROM Customers WHERE Country='Germany' AND (City='Berlin' OR City='München');
+- [ ] AND & OR CONDITION    :  SELECT * FROM Customers WHERE Country='Germany' AND (City='Berlin' OR City='Munchen');
 
 - [ ] AND & NOT CONDITION   :  SELECT * FROM Customers WHERE NOT Country='Germany' AND NOT Country='USA';
 
