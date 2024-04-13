@@ -1,6 +1,7 @@
 #### Structured Query Language (SQL)
 ##Basics of SQL</br>
 <b>Structured Query Language(SQL) is a database tool which is used to create and access database to support software application.</b></br>
+</br>
 <b>SQL Commands</b></br>
 <b>There are 5 types of SQL commands mainly categorized as:-</b></br>
 <b>DDL – Data Definition Language</b></br>
@@ -11,6 +12,7 @@ TRUNCATE: This is used to remove all records from a table, including all spaces 
 
 <b>DQL – Data Query Language</b></br>
 SELECT: It is used to retrieve data from the database.</br>
+
 <b>DML – Data Manipulation Language</b></br>
 INSERT: It is used to insert data into a table.</br>
 UPDATE: It is used to update existing data within a table.</br>
