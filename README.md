@@ -1,13 +1,29 @@
 #### Structured Query Language (SQL)
-##Basics of SQL
-<b>Structured Query Language is a database tool which is used to create and access database to support software application.</b></br>
+##Basics of SQL</br>
+<b>Structured Query Language(SQL) is a database tool which is used to create and access database to support software application.</b></br>
 <b>SQL Commands</b></br>
 <b>There are 5 types of SQL commands mainly categorized as:-</b></br>
-DDL – Data Definition Language</br>
-DQL – Data Query Language</br>
-DML – Data Manipulation Language</br>
-DCL – Data Control Language</br>
-TCL – Transaction Control Language</br>
+<b>DDL – Data Definition Language</b></br>
+CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).</br>
+DROP: This command is used to delete objects from the database.</br>
+ALTER: This is used to alter the structure of the database.</br>
+TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed.</br>
+COMMENT: This is used to add comments to the data dictionary.</br>
+RENAME: This is used to rename an object existing in the database.</br>
+<b>DQL – Data Query Language</b></br>
+SELECT: It is used to retrieve data from the database.</br>
+DML – Data Manipulation Language</br></br>
+INSERT: It is used to insert data into a table.</br>
+UPDATE: It is used to update existing data within a table.</br>
+DELETE: It is used to delete records from a database table.</br>
+LOCK: Table control concurrency.</br>
+<b>DCL – Data Control Language</b></br>
+GRANT: This command gives users access privileges to the database.</br>
+REVOKE: This command withdraws the user’s access privileges given by using the GRANT command.</br>
+<b>TCL – Transaction Control Language</b></br>
+BEGIN: Opens a Transaction.</br>
+ROLLBACK: Rollbacks a transaction in case of any error occurs.</br>
+COMMIT: Commits a Transaction.</br>
 
 <b>Referential integrity:-</b></br>
 Referential integrity refers to the consistency that must be maintained between primary and foreign keys, i.e. every foreign key value must have a corresponding primary key value.</br>
@@ -17,7 +33,7 @@ Trigger allows us to execute a batch of SQL code when a table event occurs (Inse
 
 <b>Aggregate Function:-</b>
 </br>
-SQL Aggregate Functions calculates values from multiple columns in a table and returns a single value.
+SQL Aggregate Functions calculates values from multiple columns in a table and returns a single value.</br>
 </br>
 <b>There are 7 aggregate functions we use in SQL</b>
 </br>
